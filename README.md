@@ -1,1 +1,1 @@
-# Wordpress Class
+# WordPress Class
